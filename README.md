@@ -8,3 +8,6 @@ This project predicts the selection of students for graduate programs based on t
 - Model Building: Using TensorFlow and Keras to construct and compile a neural network model.
 - Model Training: Training the model with the dataset and evaluating its performance.
 - Prediction: Making predictions on new data.
+
+
+Predict with confidence! 🎓
